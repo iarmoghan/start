@@ -1,0 +1,18 @@
+body{
+    padding-left: 50px;
+}
+p{
+   color: red;
+   padding-left: 100px;
+}
+
+.para1{
+     color: red;
+}
+
+.para2{
+      color: blue;
+}
+.span{
+     background-color:yellow;
+}

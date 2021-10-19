@@ -1,0 +1,33 @@
+body{
+background-color: red;
+color: #003399;
+}
+
+
+
+img{
+width: 150px;
+height: 150px;
+}
+
+
+
+p{
+color: blue;
+font-family: 'Bebas Neue', cursive;
+}
+
+
+
+h3.orange{
+color: orange;
+font-family: 'Lobster', cursive;
+}
+a.nav{
+display: inline;
+padding: 10px;
+margin: 10px;
+background-color: teal;
+color: #fff;
+text-decoration:none;
+}

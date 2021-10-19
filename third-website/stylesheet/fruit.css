@@ -1,0 +1,24 @@
+body{
+  background-image: url("../images/cute.jpg");
+}
+#wrapper{
+  width:90%;
+  height: 600px;
+  margin: 0 auto;
+}
+.head{
+  height: 50px;
+  background-color: MediumSeaGreen;
+}
+.sidebar{
+  width: 15%;
+  float: left;
+  background-color: red;
+  height: 550px;
+
+}
+.main{
+  width: 85%;
+  float: right;
+  background-color: yellow;
+}

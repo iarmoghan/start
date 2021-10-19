@@ -1,0 +1,9 @@
+h1{
+  font-family: 'Birthstone', cursive;
+}
+p{
+  font-family: 'Ephesis', cursive;
+}
+table, th, td{
+  border: 1px solid black;
+}

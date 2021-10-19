@@ -1,0 +1,13 @@
+td,th{
+  border: 2px solid red;
+  text-align: left;
+  padding-left: 35px;
+  padding-bottom: 10px;
+}
+p{
+  font-family: 'Coming Soon', cursive;
+  font-size: 30px;
+}
+table{
+  font-family: 'Birthstone', cursive;
+}
